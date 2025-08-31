@@ -13,7 +13,7 @@ An engaging web application designed to teach 6th-grade students about sentiment
 
 ## 🚀 Live Demo
 
-[Visit SentiMentor](sentiment-analysis-explorer.vercel.app)
+https://sentiment-analysis-explorer.vercel.app/
 
 ## 🛠️ Tech Stack
 
