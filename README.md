@@ -121,13 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with modern web technologies for optimal performance
 - Designed with input from elementary education specialists
 
-## 📞 Support
-
-For questions or support:
-- Create an issue on GitHub
-- Email: support@sentimentor.com
-- Documentation: [docs.sentimentor.com](https://docs.sentimentor.com)
-
 ---
 
 **Made with ❤️ for young learners exploring the world of AI**
